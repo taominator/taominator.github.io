@@ -1,0 +1,65 @@
+body {
+    padding-top: 65px;
+    padding-bottom: 65px;
+    background: #A0D5EE;
+}
+
+#mynavbar {
+    background-color: #A0CBED;
+}
+
+.list-group-item {
+    background-color: #C6CBE9;
+}
+
+.dropdown-menu {
+    background-color: #C6CBE9;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-weight: bold;
+    color: rgb(18, 4, 74);
+    font-size: 4em;    
+}
+
+
+#about-loci {
+    margin-bottom: 8em;
+    letter-spacing: 0.2em;
+}
+
+#download-text {
+    margin-bottom: 3em;
+}
+
+#carousel-h2 {
+    margin: 1em;
+}
+
+#carousel-div {
+    padding: 3em;
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+.carousel-indicators li {
+    width: 50px;
+    height: 10px;
+    border-radius: 10%%;
+    margin: 5px;
+}
+
+.carousel-indicators li {
+    background-color: rgb(207, 202, 202) !important;
+    opacity: 0.5;
+}
+.carousel-indicators .active {
+    background-color: rgb(207, 202, 202);
+}
+

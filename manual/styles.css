@@ -1,0 +1,27 @@
+body {
+    padding-top: 65px;
+    padding-bottom: 65px;
+    background: #A0D5EE;
+}
+
+.mynav {
+    background-color: #A0CBED;
+}
+
+.dropdown-menu {
+    background-color: #C6CBE9;
+}
+
+h1 {
+    margin: 2em;
+}
+
+p {
+    margin-top: 7em;
+    margin-bottom: 7em;
+}
+
+.manual_img {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
