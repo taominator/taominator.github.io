@@ -34,6 +34,10 @@ h1 {
     letter-spacing: 0.2em;
 }
 
+.download-button {
+    margin: 1em;
+}
+
 #download-text {
     margin-bottom: 3em;
 }
